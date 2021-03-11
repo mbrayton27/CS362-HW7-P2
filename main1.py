@@ -10,3 +10,6 @@ def print_count(number):
         else:
             print("That year is a leap year")
             return("That year is a leap year")
+    else:
+        print("That year is NOT a leap year")
+        return("That year is NOT a leap year")
